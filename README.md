@@ -1,3 +1,38 @@
+# HBV2.0 Tactics: PowerShell Edition (Forked from SpecterOps)
+
+🦡 Part of the [HoneyBadger Vanguard 2.0](https://github.com/MoSLoF/HBV-2.0) framework  
+🎯 Focus: Advanced offensive PowerShell tradecraft  
+⚠️ All credit to [SpecterOps](https://github.com/SpecterOps) – original authors of `Adversary Tactics: PowerShell`
+
+---
+
+## 🔥 Modules Adapted for HBV2.0
+
+- `Invoke-HoneyReflect.ps1`: PSReflect in-memory loader
+- `HoneyBypass-AMSI.ps1`: Modern AMSI bypass techniques
+- `Invoke-HoneyTokenMagic.ps1`: Access token manipulation
+- `APT-PowerView-Replica.ps1`: Simulated red team enumeration
+
+---
+
+## 🧠 Use Cases in HBV2.0
+- ✅ Stealth payload staging
+- ✅ EDR bypass simulation
+- ✅ Token hijack & impersonation
+- ✅ Red Team emulation via GUI
+
+---
+
+## 📖 Training Reference
+Includes full PDF of "Adversary Tactics – PowerShell" by SpecterOps
+
+---
+
+## ⚖️ License
+GPLv3 – Attribution required. Respect the original authors.
+
+###### Original ReadMe.md ######
+
 # Adversary Tactics: PowerShell
 __This course material is no longer maintained and is being provided as-is.__
 
